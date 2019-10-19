@@ -1,0 +1,11 @@
+D:\Pastas\UFU\Aulas\2019-2\POO\StackExample\StackExample\StackExample\bin\Debug\netcoreapp3.0\StackExample.exe
+D:\Pastas\UFU\Aulas\2019-2\POO\StackExample\StackExample\StackExample\bin\Debug\netcoreapp3.0\StackExample.deps.json
+D:\Pastas\UFU\Aulas\2019-2\POO\StackExample\StackExample\StackExample\bin\Debug\netcoreapp3.0\StackExample.runtimeconfig.json
+D:\Pastas\UFU\Aulas\2019-2\POO\StackExample\StackExample\StackExample\bin\Debug\netcoreapp3.0\StackExample.runtimeconfig.dev.json
+D:\Pastas\UFU\Aulas\2019-2\POO\StackExample\StackExample\StackExample\bin\Debug\netcoreapp3.0\StackExample.dll
+D:\Pastas\UFU\Aulas\2019-2\POO\StackExample\StackExample\StackExample\bin\Debug\netcoreapp3.0\StackExample.pdb
+D:\Pastas\UFU\Aulas\2019-2\POO\StackExample\StackExample\StackExample\obj\Debug\netcoreapp3.0\StackExample.csprojAssemblyReference.cache
+D:\Pastas\UFU\Aulas\2019-2\POO\StackExample\StackExample\StackExample\obj\Debug\netcoreapp3.0\StackExample.AssemblyInfoInputs.cache
+D:\Pastas\UFU\Aulas\2019-2\POO\StackExample\StackExample\StackExample\obj\Debug\netcoreapp3.0\StackExample.AssemblyInfo.cs
+D:\Pastas\UFU\Aulas\2019-2\POO\StackExample\StackExample\StackExample\obj\Debug\netcoreapp3.0\StackExample.dll
+D:\Pastas\UFU\Aulas\2019-2\POO\StackExample\StackExample\StackExample\obj\Debug\netcoreapp3.0\StackExample.pdb
